@@ -1,0 +1,6 @@
+-   id: recode-to-utf8
+    name: Recode files to UTF-8
+    description: This hook recodes files with UTF-8 encoding.
+    entry: recode-to-utf8
+    language: python
+    types: [text]
